@@ -1,0 +1,34 @@
+2020/2/12
+               Order         Codes                 semi-Axes
+State  Region  Date      Shape  Material  Color      A      C    Radius   Customer Number     Name and Adddress    
+  IA   North 2019/08/26      o   p         Red    4.99    4.26    0.00        M30-673785     Daniel Baer  3165 Williams Blvd Sw, Cedar Rapids, Ia 524041422
+  IA   North 2019/04/24      O   c      Violet    6.44    6.40    0.00        A05-964994     Denise Jones  Suite 1, 20 Arena Way, Council Bluffs, Ia 515017065
+  IA   North 2020/01/03      O   p      Violet    5.67    3.44    0.00        M15-916199     Mark Owens  Ste 100, 1100 6Th Street, Coralville, Ia 522411756
+  IA   North 2020/02/05      P   a         Red    5.47    7.42    0.00        M30-858795     John Paletta  2502 S 2Nd St, Marshalltown, Ia 501584403
+  IL   North 2020/03/26      o   A        Teal    9.60    5.87    0.00        A05-679813     Monica Ayala  1033, University Place, Evanston, Il 602013196
+  IL   North 2019/03/28      P   A         Red    0.97    1.55    0.00        M30-525438     Delores Britton  15401 S 94Th Ave, Orland Park, Il 604623827
+  IL   North 2019/06/06      s   A      Violet    0.00    0.00    2.42        A05-912535     James Bushman  790 Fletcher Dr, Elgin, Il 601234755
+  IL   North 2019/07/28      o   a      Yellow    1.63    0.88    0.00        A05-638244     Wanda Cepulkowski  Ste 201, 2301 W 22Nd St, Oak Brook, Il 605231223
+  IL   North 2020/02/01      4   c      Yellow    7.24    7.26    0.00        A05-303382     Linda Christian  1670 Lebanon Avenue, Belleville, Il 622212466
+  IL   North 2020/02/10      p   c      Violet    0.80    1.37    0.00        M30-551018     Matthew Dietrich  Suite 2951, 200 W Adams St, Chicago, Il 606065210
+  IL   North 2019/07/31      o   p       Green    6.91    4.96    0.00        A05-845973     Judith Fredricks  10Th Fl, 600 West Madison St, Chicago, Il 606612406
+  IL   North 2019/07/13      P   P      Orange    4.13    6.19    0.00        U02-691206     Carole Grayson  10Th Floor, 600 W Madison Street, Chicago, Il 606612406
+  IL   North 2019/07/07      P   P      Violet    3.80    4.83    0.00        A05-594023     Juan Herrera  5130 W North Ave, Chicago, Il 606394447
+  IL   North 2020/01/09      s   c      Orange    0.00    0.00    4.02        M30-345308     Justin Kessl  2416 S Pulaski Rd, Chicago, Il 606233718
+  IL   North 2019/03/13      O   a      Violet    6.66    6.48    0.00        U02-859602     Valeria Knighton  552 Houbolt Road, Joliet, Il 604318318
+  IL   North 2020/02/01      o   G        Blue    7.49    5.53    0.00        M30-373443     Brian Larson  400 N Vermilion St, Danville, Il 618324648
+  IL   North 2019/08/05      p   c        Blue    5.33    6.21    0.00        M30-710768     Babafemi Littlejohn  Fmt 10Th Fl, 600 W Madison St, Chicago, Il 606612406
+  IL   North 2020/02/10      o   a   Turquoise    0.22    0.06    0.00        M15-684215     Lakeisel Marks-Evans  5Th Fl, 600 W Madison Ne, Chicago, Il 606612406
+  IL   North 2020/01/07      s   c      Violet    0.00    0.00    2.73        M30-310721     Khrusharon Mccullough  5Th Flr Sw, 600 W Madison St, Chicago, Il 606612406
+  IL   North 2019/07/22      o   A         Red    3.22    2.22    0.00        M15-873486     Karel Muehring  3328 W Willow Knolls Dr, Peoria, Il 616141008
+  IL   North 2020/01/17      o   c       Green    7.39    7.24    0.00        U02-576300     Victoria Odonnell  1St Flr Health Unit, 600 W Madison, Chicago, Il 606612406
+  IL   North 2019/08/25      o   p      Indigo    2.54    2.26    0.00        M30-425697     Noemi Quinones  200 W Adams, Ste 2901, Chicago, Il 606065234
+  IL   North 2020/01/02      p   a      Indigo    5.12    5.65    0.00        A05-727025     Rory Robinson  600 W Madison, Chicago, Il 606612406
+  NC   South 2019/04/28      o   a      Violet    2.13    1.34    0.00        A05-266795     Aretha Richardson  1071 Hunter Hill Road, Rocky Mount, Nc 278041767
+  NC   South 2019/03/01      P   c      Yellow    6.92    7.30    0.00        M15-545043     Cedrick Thomas  220 East Green Street, Rockingham, Nc 283793422
+  NC   South 2019/06/05      s   c       Green    0.00    0.00    4.91        U02-257011     Valerie Whitfield  633 Venture Dr, Smithfield, Nc 275774769
+  ND    West 2020/01/09      o   p       Green    6.92    6.09    0.00        M30-960065     Karri Smith  Suite 100, 1680 E Capitol Ave, Bismarck, Nd 585015603
+  NE    West 2019/04/04      o   A        Blue    7.45    7.16    0.00        M30-827810     Michael Mcwilliams  Ste 1, 605 Iron Horse Dr, Norfolk, Ne 687015891
+  NE    West 2019/06/04      O   a        Blue    7.58    7.55    0.00        M30-951819     Joann Nash  415 Valley View Dr, Scottsbluff, Ne 693611482
+  FL   South 2019/08/20      s   a      Violet    0.00    0.00    6.98        A05-724441     Steven Bosheers  724 20Th Street, Vero Beach, Fl 329605442
+  FL   South 2020/02/09      p   c       Green    5.35    7.31    0.00        M15-758330     Jacqueline Botello  Ste 100, 8661 Citizens Drive, New Port Richey, Fl 346545557
