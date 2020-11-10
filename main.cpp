@@ -49,8 +49,6 @@ int main() {
     ifstream customerfile;
 
     cout << "Please type in the Customer Data Filename:" << endl;
-    //filename string only accepts the file path as an entry for the file to be processed
-    //To Test, enter filepath for file: "P2OrdersT.dat"
     cin >> filename;
     customerfile.open(filename);
 
@@ -150,7 +148,7 @@ int main() {
             radiusvalidation = false;
         }
 
-        //Row Invalidation and Validation Counter
+        //Row Invalidation and Validation Counter, check this tho -- conditional might be off
         if ((datevalidation == false) || (shapevalidation == false) || (materialvalidation == false) ||
         (colorvalidation == false) || (semiAvalidation == false) || (semiCvalidation == false)
             || (radiusvalidation == false)) {
